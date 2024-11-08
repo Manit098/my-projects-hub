@@ -1,6 +1,3 @@
-Here's the code for your `README.md`:
-
-```markdown
 # My Projects Hub 🚀
 All My Projects from Beginner to Advanced! 🌟  
 It's been a journey filled with code, errors, and a lot of fun memories. Let me share the story of how it all began!
@@ -35,4 +32,3 @@ Special shoutouts to the teachers who made this journey possible:
 ### The Journey Continues 🚀
 
 Every project, every bug, and every late-night “aha” moment has brought me closer to where I want to be. This repository is a collection of all my projects, from the simplest programs to some pretty advanced stuff. I’m excited to keep pushing forward and sharing my journey here. Stay tuned—there’s so much more to come!
-```
